@@ -1,5 +1,5 @@
-Insert Returno: <?= $insertReturn; ?><hr/>
-Select Returno:
+Insert Return: <?= $insertReturn; ?><hr/>
+Select Return:
 <pre>
 	<?php print_r($selectReturn); ?>
 </pre>
